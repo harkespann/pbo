@@ -9,6 +9,7 @@ public class luas_segitiga {
         
         System.out.print("Masukan Alas : ");
         a=input.nextInt();
+        
         System.out.print("Masukan Tinggi : ");
         t=input.nextInt();
         
