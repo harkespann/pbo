@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class KelilingLingkaran {
+public class keliling_lingkaran {
   public static void main(String[] args) {
   
     double k, r, phi = 3.14;
